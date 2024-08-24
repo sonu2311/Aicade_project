@@ -1,0 +1,27 @@
+.top_box {
+  border: solid #ccc 1px;
+  padding:  10px;
+  margin: 10px;
+}
+
+.link_box {
+  margin:  5px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #ccc;
+}
+
+.link_box:hover {
+  background-color: #aaa;
+}
+.sidebar_button {
+  color :#1F2937;
+  margin-bottom: 2px;
+  border-radius: 8px;
+  padding: 12px;
+  background-color: rgba(255, 255, 255, 0.1); 
+}
+
+.sidebar_button:hover {
+  background-color: #eee;
+}
